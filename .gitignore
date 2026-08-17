@@ -1,5 +1,7 @@
+# dsh-filexplore — repo-local ignores
 node_modules/
 dist/
 .npm-cache/
-.DS_Store
 *.log
+.DS_Store
+attachments/
